@@ -27,3 +27,6 @@ coverage/
 
 # Ignore pdf files
 *.pdf
+
+# Ignore png files
+*.png
